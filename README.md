@@ -36,7 +36,7 @@ You should already have node.js and npm installed and then use:
 ## Author
 
 - [@Lucasbelich](https://github.com/Lucasbelich)
-- Lucas Belich - Web Developer
+- Lucas Belich - Software Developer
 
 ## License
 
