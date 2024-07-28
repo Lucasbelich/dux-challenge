@@ -1,0 +1,13 @@
+.table__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: calc(100vh - 10rem);
+  margin: 0 3rem;
+}
+.table__dataTable {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  overflow-y: auto;
+}

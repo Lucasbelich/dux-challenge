@@ -1,0 +1,4 @@
+.sidebar__container{
+    background: #2D3E50;
+    min-height: calc(100vh - 2.813rem);
+}
