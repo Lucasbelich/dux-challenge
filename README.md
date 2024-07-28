@@ -28,7 +28,7 @@ To implement this project, you need to download the zip file
 and run it locally in your browser
 You should already have node.js and npm installed and then use:
 
-- cd erp-challenge/
+- cd dux-challenge-master/
 - npm i
 - replace the.env.example file with your own credentials
 - npm run dev
